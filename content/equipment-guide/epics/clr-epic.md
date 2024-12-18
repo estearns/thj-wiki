@@ -12,7 +12,7 @@ bookHidden: true
 - Loot `Damaged Goblin Crown` from `A Spirit of Flame` (Do not let Natasha Whitewater get the last hit or the corpse will disappear)
 - Give `Damaged Goblin Crown` to `Natasha Whitewater` -- receive `Ornate Sea Shell` (Natasha Whitewater will despawn 5 minutes after spawning in Lake Rathetear unless engaged in combat and after turning in the Damaged Goblin Crown.) 
 - Give `Ornate Sea Shell` to `Omat Vastsea` in `Timorous Deep` -- receive `Coral Statue of Tarew`
-- Give the `Coral Statue of Tarew` to a `A Seeker` in `The Temple of Solusek Ro` causing them to become `A Plasmatic Priest`
+- Give the `Coral Statue of Tarew` to a `A Seeker` in `The Temple of Solusek Ro` causing them to become `A Plasmatic Priest` (Must be the male version of `A Seeker`, which spawns between 7:00am and 9:00pm game time)
 - Kill `A Plasmatic Priest` in `The Temple of Solusek Ro` and loot `Blood Soaked Plasmatic Priest Robe`
 - Give the `Blood Soaked Plasmatic Priest Robe` to `Omat Vastsea` –- receive `Orb of Frozen Water` (This spawns Natasha inside the hut, It is suggested you wait to turn in until you have `Lord Gimblox's Signet Ring`)
 
